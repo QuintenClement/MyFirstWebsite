@@ -1,0 +1,61 @@
+h2 {
+    color: rgb(88, 47, 201);
+    text-align: center;
+    font-size:x-large;
+    margin-left: 20%;
+}
+h1 {
+    font-size: xx-large
+}
+table, th, td {
+    border: 1px solid black;
+    width: 50%;
+    transform: translate(10)
+}
+th, td {
+    padding: 10px;
+}
+table {
+    float: left;
+    margin-right: 65%;
+    margin-top: 10%;
+}
+.column {
+    float: left;
+    width: 50%
+}
+footer {
+    text-align: center;
+    margin-top: -22%;
+}
+body {
+    background-color: lavender;
+}
+div.col-md-6 {
+    position: inherit;
+    margin-left: 0;
+}
+nav {
+    margin-left: -5%;
+    margin-top: 30%;
+}
+a:hover {
+    background-color: red;
+}
+h3 {
+    margin-left: 30%;
+    margin-top: 10%;
+}
+img.broc {
+    margin-left: -20%;
+    margin-top: 10%;
+}
+img.creme {
+    margin-top: 10%;
+    margin-left: 10%;
+}
+img.road {
+    margin-left: -54%;
+    margin-top: -100%;
+
+}
